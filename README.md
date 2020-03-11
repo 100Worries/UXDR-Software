@@ -3,26 +3,25 @@ User Experience Design &amp; Research Software
 
 ## Screen Capture
 
+{}
 | App    | Features     |
 | :----- | :----------- |
 | [Snagit](https://www.techsmith.com/screen-capture.html) | Video & Image Capture, Annotations | 
 
+## Remote Usability Testing
 
+## In-Lab Usability Testing
 
-# Remote Usability Testing
+## Input Visualization
 
-# In-Lab Usability Testing
+## Prototyping
 
-# Input Visualization
+## Video Players
 
-# Prototyping
+## Translation
 
-# Video Players
+## Transcription
 
-# Translation
+## Multi-Modal
 
-# Transcription
-
-# Multi-Modal
-
-# Open Source Libraries
+## Open Source Libraries
