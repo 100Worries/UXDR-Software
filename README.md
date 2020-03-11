@@ -6,7 +6,8 @@ User Experience Design &amp; Research Software
 | :----- | :----------- |
 | [Slack](https://slack.com/) | ... |
 | [AirTable](https://airtable.com/) | ... | 
-| [Trello](https://slack.com/) | ... | 
+| [Trello](https://trello.com/en-US) | ... | 
+| [Dropbox Paper](https://www.dropbox.com/paper) | ... |
 | [Zeplin IO](https://zeplin.io/) | ... | 
 
 ## Screen Capture
@@ -34,6 +35,7 @@ User Experience Design &amp; Research Software
 | App    | Features     |
 | :----- | :----------- |
 | [Amazon Mechanical Turk](https://www.mturk.com/) | ... |
+| [Cloud Research / Turk Prime](https://www.cloudresearch.com/) | ... |
 | [Qualtrics Online Sample](https://www.qualtrics.com/research-services/online-sample/) | ... |
 | [Survey Monkey Audience](https://www.surveymonkey.com/mp/audience/) | ... |
 | [Ethn IO](https://ethn.io/) | ... |
@@ -52,8 +54,16 @@ User Experience Design &amp; Research Software
 | [Tobii Pro Lab](https://www.tobiipro.com/product-listing/tobii-pro-lab/) | ... | 
 | [Tobii Pro Eye Tracker Manager](https://www.tobiipro.com/product-listing/eye-tracker-manager/) | ... |
 | [Tobii Sprint](https://www.tobiipro.com/sprint/) | ... | 
+| [Noldus Observer XT](https://www.noldus.com/observer-xt) | ... |
+| [Noldus FaceReader](https://www.noldus.com/facereader) | ... |
+| [Noldus Viso](https://www.noldus.com/viso) | ... |
 | [E-Prime](https://pstnet.com/products/e-prime/) | ... | 
 | [OpenVibe](http://openvibe.inria.fr/) | ... | 
+
+## On-Site Usability Testing
+| App    | Features     |
+| :----- | :----------- |
+| [Noldus TrackLab](https://www.noldus.com/tracklab-human) | ... | 
 
 ## Remote Usability Testing
 | App    | Features     |
@@ -79,8 +89,10 @@ User Experience Design &amp; Research Software
 ## Data Visualization
 | App    | Features     |
 | :----- | :----------- |
+| [Noldus Cube HX](https://www.noldus.com/cube) | ... |
 | [Google Data Studio](https://datastudio.google.com) | ... | 
-| [Google Data Studio](https://datastudio.google.com) | ... | 
+| [Tableau](https://www.tableau.com/) | ... | 
+| [Power BI](https://powerbi.microsoft.com/en-us/) | ... |
 
 ## Prototyping
 | App    | Features     |
@@ -103,8 +115,13 @@ User Experience Design &amp; Research Software
 | :----- | :----------- |
 | [Otter AI](https://otter.ai/login) | ... | 
 
-## Open Source Libraries
+## Libraries, Frameworks, APIs & Snippets
 | App    | Features     |
 | :----- | :----------- |
+| [Tobii Pro SDK](https://www.tobiipro.com/product-listing/tobii-pro-sdk/) | ... |
+| [Tobii Unity SDK](https://developer.tobii.com/tobii-unity-sdk/) | ... |
+| [Tobii Unreal SDK](https://developer.tobii.com/tobii-ue4-sdk/) | ... |
+| [Tobii Pro Glasses 2 SDK](https://www.tobiipro.com/product-listing/tobii-pro-glasses-2-sdk/) | ... |
+| [Tobii E-Prime Extensions](https://www.tobiipro.com/product-listing/e-prime-extensions/) | ... |
 | [Lab Streaming Layer](https://labstreaminglayer.readthedocs.io/) | ... | 
 | [Heatmap.js](https://www.patrick-wied.at/static/heatmapjs/) | ... | 
