@@ -24,6 +24,12 @@ User Experience Design &amp; Research Software
 | [Mirroring360](https://www.mirroring360.com/) | ... | 
 | [Vysor](https://www.vysor.io/) | ... | 
 
+## Device Emulators
+| App    | Features     |
+| :----- | :----------- |
+| [XCode](https://www.teamviewer.com/en-us/) | ... | 
+| [Android Studio](https://www.airsquirrels.com/reflector) | ... | 
+
 ## Remote Desktop
 | App    | Features     |
 | :----- | :----------- |
