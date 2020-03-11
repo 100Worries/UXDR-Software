@@ -1,10 +1,12 @@
 # UXDR-Software
 User Experience Design &amp; Research Software
 
-# Screen Capture
-| Application | Platforms |
-| --- | --- |
-| `Snagit` | Windows10, MacOS |
+## Screen Capture
+
+| App    | Features     |
+| :----- | :----------- |
+| [Snagit](https://www.techsmith.com/screen-capture.html) | Video & Image Capture, Annotations | 
+
 
 
 # Remote Usability Testing
