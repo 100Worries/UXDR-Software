@@ -2,13 +2,12 @@
 User Experience Design &amp; Research Software
 
 ## Screen Capture
-
-{}
 | App    | Features     |
 | :----- | :----------- |
-| [Snagit](https://www.techsmith.com/screen-capture.html) | Video & Image Capture, Annotations | 
+| [Snagit](https://www.techsmith.com/screen-capture.html) | ... | 
+| [ShareX](https://getsharex.com/) | ... | 
 
-## Remote Usability Testing
+## Remote Usability Testing & Conferencing
 
 ## In-Lab Usability Testing
 
@@ -25,3 +24,6 @@ User Experience Design &amp; Research Software
 ## Multi-Modal
 
 ## Open Source Libraries
+| App    | Features     |
+| :----- | :----------- |
+| [Lab Streaming Layer](https://labstreaminglayer.readthedocs.io/) | ... | 
