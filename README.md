@@ -27,8 +27,8 @@ User Experience Design &amp; Research Software
 ## Device Emulators
 | App    | Features     |
 | :----- | :----------- |
-| [XCode](https://www.teamviewer.com/en-us/) | ... | 
-| [Android Studio](https://www.airsquirrels.com/reflector) | ... | 
+| [XCode](https://developer.apple.com/xcode/) | ... | 
+| [Android Studio](https://developer.android.com/studio) | ... | 
 
 ## Remote Desktop
 | App    | Features     |
